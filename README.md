@@ -1,6 +1,14 @@
 ### Hi there 👋
 -----------------
 ![github_stats](https://github-readme-stats.vercel.app/api?username=martinloesethjensen&show_icons=true&theme=dark)
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=martinloesethjensen&repo=flt_snake_game&show_icons=true&theme=dark" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=martinloesethjensen&repo=bitrise_migrator&show_icons=true&theme=dark" />
+</a>
+
 <!--
 **martinloesethjensen/martinloesethjensen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
