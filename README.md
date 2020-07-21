@@ -10,7 +10,7 @@ At this moment I am a software development student at KEA in Copenhagen finishin
 - 👯 I’m looking to collaborate on **new and interesting projects**
 - 💬 Ask me about **Flutter, Kotlin, and mobile development** 
 
-<--
+<!--
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=martinloesethjensen&repo=flt_snake_game&show_icons=true&theme=dark" />
 </a>
