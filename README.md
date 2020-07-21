@@ -1,6 +1,7 @@
 ### Hi there 👋
 
-I am Martin from Copenhagen, Denmark. I like all things tech related and is currently deeply getting into Flutter 💙
+I am Martin from Copenhagen, Denmark. I like all things tech related and is currently deeply getting into Flutter 💙 
+
 At this moment I am a software development student at KEA in Copenhagen finishing my bachelor degree in summer 2021. Beside that, I also a co-organizer for GDG Copenhagen. I like lerning new things and making new and exciting projects 👨‍💻
 
 ![github_stats](https://github-readme-stats.vercel.app/api?username=martinloesethjensen&show_icons=true&theme=dark)
