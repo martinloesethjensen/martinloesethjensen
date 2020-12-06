@@ -7,10 +7,11 @@ At this moment I am a software development student at KEA in Copenhagen finishin
   <img align="right" src="https://github-readme-stats.vercel.app/api?username=martinloesethjensen&show_icons=true&theme=dark" />
 </a>
 
-- 🔭 I’m currently working on **completing challenges for the [Hello World by Polkadot hackathon](https://gitcoin.co/hackathon/polkadot)**
+- 🔭 I’m currently attending a 10 week **blockchain hackathon by [Encode Club](https://www.encode.club/)**
 - 🌱 I’m currently learning **Docker, Rust, and [Substrate](https://substrate.dev/)**
 - 👯 I’m looking to collaborate on **new and interesting projects**
 - 💬 Ask me about **Flutter, Kotlin, and mobile development** 
+- 🤔 I’m looking for help with **learning more about blockchain development**
 
 <!--
 <a href="https://github.com/anuraghazra/github-readme-stats">
@@ -22,7 +23,6 @@ At this moment I am a software development student at KEA in Copenhagen finishin
 -->
 
 <!--
-- 🤔 I’m looking for help with ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
