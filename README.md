@@ -4,7 +4,7 @@ I am Martin from Copenhagen, Denmark. I like all things tech related and is curr
 At this moment I am a software development student at KEA in Copenhagen finishing my bachelor degree in summer 2021. Beside that, I also a co-organizer for GDG Copenhagen. I like learning new things and making new and exciting projects 👨‍💻
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="right" src="https://github-readme-stats.vercel.app/api?username=martinloesethjensen&show_icons=true&theme=dark" />
+  <img align="right" src="https://github-readme-stats.vercel.app/api?username=martinloesethjensen&show_icons=true&theme=dark&count_private=true" />
 </a>
 
 - 🔭 I’m currently attending a 10 week **blockchain hackathon by [Encode Club](https://www.encode.club/)**
