@@ -7,7 +7,7 @@ At this moment I am a software development student at KEA in Copenhagen finishin
   <img align="right" src="https://github-readme-stats.vercel.app/api?username=martinloesethjensen&show_icons=true&theme=dark&count_private=true" />
 </a>
 
-- 🔭 I’m currently attending a 10 week blockchain hackathon, **Hack the System by [Encode Club](https://www.encode.club/)** 
+- 🔭 I’m currently attending a 10 week blockchain hackathon, **[Hack the System](https://www.encode.club/hack-the-system) by [Encode Club](https://www.encode.club/)** 
 - 🌱 I’m currently learning **Rust and [Substrate](https://substrate.dev/)**
 - 👯 I’m looking to collaborate on **new and interesting projects**
 - 💬 Ask me about **Flutter, Kotlin, and mobile development** 
