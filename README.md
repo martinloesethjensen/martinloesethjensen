@@ -52,9 +52,6 @@ These are languages, tools, and technologies I either use at work or enjoy using
     <a href="https://www.python.org/" rel="nofollow"> <img align="left"
             src="img/python_logo.png"
             alt="Python" height="48px" style="max-width: 100%;"> </a>
-    <a href="https://reactjs.org/" rel="nofollow"> <img align="left" alt="React" height="48px"
-            src="img/react_logo.png"
-            style="max-width: 100%;"></a>
     <a href="https://git-scm.com/" rel="nofollow"> <img
             src="img/git_logo.png"
             align="left" alt="Git" height="48px" style="max-width: 100%;"> </a>
