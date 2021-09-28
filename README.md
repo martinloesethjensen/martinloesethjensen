@@ -1,8 +1,8 @@
 <a href="https://twitter.com/martin__jensen" rel="nofollow"> <img align="right"
-            src="./twitter_logo.svg"
+            src="img/twitter_logo.svg"
             alt="Twitter" height="36px" style="max-width: 100%;"> </a>
 <a href="https://www.linkedin.com/in/martinloesethjensen/" rel="nofollow"> <img align="right"
-            src="./linkedin_logo.svg"
+            src="img/linkedin_logo.svg"
             alt="LinkedIn" height="36px" style="max-width: 100%;"> </a>
 <br>
 
@@ -32,31 +32,31 @@ These are languages, tools, and technologies I either use at work or enjoy using
 
 <p>
     <a href="https://ethereum.org" rel="nofollow"> <img align="left"
-            src="./ethereum_logo.png"
+            src="img/ethereum_logo.png"
             alt="Ethereum" height="48px" style="max-width: 100%;"> </a>
     <a href="https://soliditylang.org" rel="nofollow"> <img align="left"
-            src="./solidity_logo.svg"
+            src="img/solidity_logo.svg"
             alt="Solidity" height="48px" style="max-width: 100%;"> </a>
     <a href="https://hardhat.org/" rel="nofollow"><img align="left" alt="Hardhat" height="42px"
-            src="./hardhat_logo.svg"
+            src="img/hardhat_logo.svg"
             style="max-width: 100%;"></a>
     <a href="https://www.javascript.com/" rel="nofollow"> <img align="left" alt="Javascript" height="48px"
-            src="./javascript_logo.png"
+            src="img/javascript_logo.png"
             style="max-width: 100%;"> </a>
     <a href="https://flutter.dev/" rel="nofollow"><img align="left" alt="Flutter" height="48px"
-            src="./flutter_logo.png"
+            src="img/flutter_logo.png"
             style="max-width: 100%;"></a>
     <a href="https://dart.dev/" rel="nofollow"><img align="left" alt="Dart" height="48px"
-            src="./dart_logo.png"
+            src="img/dart_logo.png"
             style="max-width: 100%;"></a>
     <a href="https://www.python.org/" rel="nofollow"> <img align="left"
-            src="./python_logo.png"
+            src="img/python_logo.png"
             alt="Python" height="48px" style="max-width: 100%;"> </a>
     <a href="https://reactjs.org/" rel="nofollow"> <img align="left" alt="React" height="48px"
-            src="./react_logo.png"
+            src="img/react_logo.png"
             style="max-width: 100%;"></a>
     <a href="https://git-scm.com/" rel="nofollow"> <img
-            src="./git_logo.png"
+            src="img/git_logo.png"
             align="left" alt="Git" height="48px" style="max-width: 100%;"> </a>
 </p>
 
