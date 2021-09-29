@@ -12,7 +12,7 @@ I'm a full-time Flutter developer at Monstarlab in Copenhagen, Denmark. I have a
 
 Fun fact: I have broken Kusama twice with my mass emoting during a Kanaria emote competition.
 
-<img align="right" src="img/kusama_canary.svg" alt="dotsama" width="350"/>
+<img align="right" src="img/kusama_canary.svg" alt="dotsama" width="350" style="background-color:red;"/>
 
 ## About me
 
