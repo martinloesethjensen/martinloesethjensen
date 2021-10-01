@@ -35,7 +35,7 @@ These are languages, tools, and technologies I either use at work or enjoy using
             src="img/ethereum_logo.png"
             alt="Ethereum" height="48px" style="max-width: 100%;"> </a>
     <a href="https://soliditylang.org" rel="nofollow"> <img align="left"
-            src="img/solidity_logo.svg"
+            src="img/solidity_logo.png"
             alt="Solidity" height="48px" style="max-width: 100%;"> </a>
     <a href="https://hardhat.org/" rel="nofollow"><img align="left" alt="Hardhat" height="42px"
             src="img/hardhat_logo.svg"
