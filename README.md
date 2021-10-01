@@ -17,7 +17,7 @@ Fun fact: I have broken Kusama twice with my mass emoting during a Kanaria emote
 ## About me
 
 - 🔭 I’m currently attending a 8 week Solidity academy, **[Encode Academy](https://www.encode.club/encode-academy) by [Encode Club](https://www.encode.club/)** 
-- 👨‍💻 Currently also attending the **[Encode Polkadot Hackathon](https://www.encode.club/polkadot-club) and will join [RMRK hackathon in October]**
+- 👨‍💻 Currently also attending the **[Encode Polkadot Hackathon](https://www.encode.club/polkadot-club) and [RMRK hackathon in October](https://rmrk.devpost.com/)**
 - 🌱 I’m currently learning **[Solidity](https://soliditylang.org/), [Rust](https://www.rust-lang.org/), and [Substrate](https://substrate.dev/)**
 - 👯 I’m looking to collaborate on **new and exciting projects**
 - 💬 Ask me about **Flutter, Substrate, Rust, [Kusama](https://kusama.network/) & [Polkadot](https://polkadot.network/) and blockchain technology** 
