@@ -8,7 +8,7 @@
 
 # Hi there 👨‍🚀 
 
-I'm a full-time Flutter developer at Monstarlab. I have a great interest in all things tech related and you might find me geek out on Kusama & Polkadot the most 🐦 🔴 
+I'm a full-time Flutter developer at WEMA Health. I have a great interest in all things tech related and you might find me geek out on Kusama & Polkadot the most 🐦 🔴 
 
 Fun fact: I have broken Kusama twice with my mass emoting during a Kanaria emote competition.
 
