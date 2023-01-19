@@ -8,7 +8,7 @@
 
 # Hi there 👨‍🚀 
 
-I'm a full-time Flutter developer at WEMA Health. I have a great interest in all things tech related and you might find me geek out on Kusama & Polkadot the most 🐦 🔴 
+Experimenting in the DotSama space since 2019. Passionate Rust, Flutter, and Web3 learner with a mission to improve oneself and the ecosystem.
 
 Fun fact: I have broken Kusama twice with my mass emoting during a Kanaria emote competition.
 
@@ -62,7 +62,3 @@ These are languages, tools, and technologies I either use at work or enjoy using
 ## Statistics
 
 ![Github Activity](https://github-readme-stats.vercel.app/api?username=martinloesethjensen&show_icons=true&count_private=true&theme=synthwave)
-
-[![dotsama-chill](https://github-readme-stats.vercel.app/api/pin/?username=martinloesethjensen&repo=dotsama-chill&show_icons=true&theme=synthwave)](https://github.com/martinloesethjensen/dotsama-chill)
-  
-[![rmrk-batch-emote](https://github-readme-stats.vercel.app/api/pin/?username=martinloesethjensen&repo=rmrk-emote-batch&show_icons=true&theme=synthwave)](https://github.com/martinloesethjensen/rmrk-emote-batch)
