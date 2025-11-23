@@ -12,8 +12,6 @@ Experimenting in the DotSama space since 2019. Passionate Rust, Flutter, and Web
 
 Fun fact: I have broken Kusama twice with my mass emoting during a Kanaria emote competition.
 
-<img align="right" src="https://lh4.googleusercontent.com/qfoTUg9_Geq1tkRy3e0xj7nZLiJghBB_kNt4BIMc5YTolXFnGLSLK0oj5QNxQLSkohPscnwYsdyYsctIzzx5C_qh_HBWLAd-5vdbntyMlPI3U2neY5Q3aGGR_UzR5_2JyPhtqcCd" alt="dotsama" width="350"/>
-
 ## About me
 
 - 🌱 I’m currently learning **[Solidity](https://soliditylang.org/), [Rust](https://www.rust-lang.org/), and [Substrate](https://substrate.dev/)**
