@@ -19,9 +19,6 @@ Fun fact: I have broken Kusama twice with my mass emoting during a Kanaria emote
 - 💬 Ask me about **Flutter, Substrate, Rust, [Kusama](https://kusama.network/) & [Polkadot](https://polkadot.network/) and blockchain technology** 
 - 🤔 I’m looking for help with **learning more about blockchain development**
 
-<br>
-<br>
-
 ## 🔨Languages, Tools & Tech 👷
 
 These are languages, tools, and technologies I either use at work or enjoy using on my own time.
