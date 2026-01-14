@@ -52,11 +52,3 @@ These are languages, tools, and technologies I either use at work or enjoy using
             src="img/git_logo.png"
             align="left" alt="Git" height="48px" style="max-width: 100%;"> </a>
 </p>
-
-<br>
-<br>
-<br>
-
-## Statistics
-
-![Github Activity](https://github-readme-stats.vercel.app/api?username=martinloesethjensen&show_icons=true&count_private=true&theme=synthwave)
