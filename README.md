@@ -1,6 +1,3 @@
-<a href="https://twitter.com/martin__jensen" rel="nofollow"> <img align="right"
-            src="img/twitter_logo.svg"
-            alt="Twitter" height="36px" style="max-width: 100%;"> </a>
 <a href="https://www.linkedin.com/in/martinloesethjensen/" rel="nofollow"> <img align="right"
             src="img/linkedin_logo.svg"
             alt="LinkedIn" height="36px" style="max-width: 100%;"> </a>
