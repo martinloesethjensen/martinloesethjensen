@@ -1,7 +1,3 @@
-<a href="https://www.linkedin.com/in/martinloesethjensen/" rel="nofollow">
-  <img align="right" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-</a>
-
 # Hey, I'm Martin 👋
 
 <a href="https://git.io/typing-svg">
