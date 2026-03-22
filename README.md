@@ -1,48 +1,42 @@
-<a href="https://www.linkedin.com/in/martinloesethjensen/" rel="nofollow"> <img align="right"
-            src="img/linkedin_logo.svg"
-            alt="LinkedIn" height="36px" style="max-width: 100%;"> </a>
-<br>
+<a href="https://www.linkedin.com/in/martinloesethjensen/" rel="nofollow">
+  <img align="right" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+</a>
 
-# Hi there 👨‍🚀 
+# Hey, I'm Martin 👋
 
-Experimenting in the DotSama space since 2019. Passionate Rust, Flutter, and Web3 learner with a mission to improve oneself and the ecosystem.
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=02569B&width=600&lines=Senior+Flutter+developer+%F0%9F%93%B1;I+build+apps+%2F+I+break+things+%2F+I+learn+Rust+%F0%9F%A6%80;Currently+surviving+Japanese+grammar+%F0%9F%87%AF%F0%9F%87%B5" alt="Typing SVG">
+</a>
 
-Fun fact: I have broken Kusama twice with my mass emoting during a Kanaria emote competition.
+Senior Flutter developer based in Copenhagen 🇩🇰  
+I build mobile apps, tinker with side projects, and occasionally break things on purpose (to learn, mostly).  
+Currently studying Japanese 🇯🇵 and counting down to my Japan trip.
 
-## About me
+![Visitor Count](https://komarev.com/ghpvc/?username=martinloesethjensen&style=for-the-badge&color=02569B)
 
-- 🌱 I’m currently learning **[Solidity](https://soliditylang.org/), [Rust](https://www.rust-lang.org/), and [Substrate](https://substrate.dev/)**
-- 👯 I’m looking to collaborate on **new and exciting projects**
-- 💬 Ask me about **Flutter, Substrate, Rust, [Kusama](https://kusama.network/) & [Polkadot](https://polkadot.network/) and blockchain technology** 
-- 🤔 I’m looking for help with **learning more about blockchain development**
+## A bit about me
 
-## 🔨Languages, Tools & Tech 👷
+- 📱 Flutter/Dart dev — clean architecture, BLoC, Riverpod, the works
+- 🦀 After hours: learning Rust, building side projects, automating things with GitHub Actions
+- 🌏 Currently: studying Japanese and planning a trip to Japan
+- 💬 Ask me about: Flutter, Dart, CI/CD pipelines, or why my favourite prime number is 11
+- ⚡ Fun fact: I once broke Kusama. Twice. During a Kanaria emote competition. No regrets.
 
-These are languages, tools, and technologies I either use at work or enjoy using on my own time.
+## 🛠️ Things I work with
 
-<p>
-    <a href="https://ethereum.org" rel="nofollow"> <img align="left"
-            src="img/ethereum_logo.png"
-            alt="Ethereum" height="48px" style="max-width: 100%;"> </a>
-    <a href="https://soliditylang.org" rel="nofollow"> <img align="left"
-            src="img/solidity_logo.png"
-            alt="Solidity" height="48px" style="max-width: 100%;"> </a>
-    <a href="https://hardhat.org/" rel="nofollow"><img align="left" alt="Hardhat" height="42px"
-            src="img/hardhat_logo.svg"
-            style="max-width: 100%;"></a>
-    <a href="https://www.javascript.com/" rel="nofollow"> <img align="left" alt="Javascript" height="48px"
-            src="img/javascript_logo.png"
-            style="max-width: 100%;"> </a>
-    <a href="https://flutter.dev/" rel="nofollow"><img align="left" alt="Flutter" height="48px"
-            src="img/flutter_logo.png"
-            style="max-width: 100%;"></a>
-    <a href="https://dart.dev/" rel="nofollow"><img align="left" alt="Dart" height="48px"
-            src="img/dart_logo.png"
-            style="max-width: 100%;"></a>
-    <a href="https://www.python.org/" rel="nofollow"> <img align="left"
-            src="img/python_logo.png"
-            alt="Python" height="48px" style="max-width: 100%;"> </a>
-    <a href="https://git-scm.com/" rel="nofollow"> <img
-            src="img/git_logo.png"
-            align="left" alt="Git" height="48px" style="max-width: 100%;"> </a>
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=martinloesethjensen&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="165">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=martinloesethjensen&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" height="165">
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=martinloesethjensen&theme=tokyonight&hide_border=true">
 </p>
